@@ -1,2 +1,2 @@
 # htmlworkout
-Enhance my html skills anf build cool stuffs
+Enhance my html, css and javascript skills anf build cool stuffs
